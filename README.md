@@ -8,7 +8,7 @@ A simulated food delivery platform database containing realistic data for custom
 Stores details of customers including their contact info and addresses.
 Columns: customer_id, full_name, email, phone, address, created_at
 
-3. Restaurants
+2. Restaurants
 
 Information about restaurants, their cuisine type, city, and rating.
 Columns: restaurant_id, restaurant_name, category, city, rating, created_at
@@ -99,6 +99,7 @@ Review sentiment analysis
 📂 Suggested GitHub Folder Structure
 
 Food_Management_Database/
+
 │
 ├─ README.md
 ├─ Food_Management_Schema.sql          # Database creation scripts
